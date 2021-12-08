@@ -1,5 +1,7 @@
 class DockingStation
 
-    def self.release_bike
+    def release_bike
+        true
     end
+    
 end
