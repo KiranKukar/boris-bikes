@@ -1,8 +1,5 @@
 class DockingStation
-    
-    def release_bike
-        puts "release the bikes"
+
+    def self.release_bike
     end
 end
-
-puts DockingStation.release_bike
